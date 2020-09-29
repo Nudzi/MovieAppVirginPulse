@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">MoviesAppBootcampV</string>
+    <string name="app_name">Movies</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnSearch">SEARCH</string>
+    <string name="tvSearch">movie title</string>
+    <string name="tvAuto">TextView</string>
+    <string name="tvHeading">SORRY</string>
+    <string name="tvHeading2">There is no movie with that title</string>
+    <string name="btnClose">CLOSE</string>
+    <string name="imgSadFace">TODO</string>
+    <string name="movie_title">Movie Name:</string>
+    <string name="tvMovieTitle">TextView</string>
+    <string name="release_date">Release Date:</string>
+    <string name="tvreleasedate">TextView</string>
+    <string name="full_movie_overview">Full Movie Overview:</string>
+    <string name="img">TODO</string>
+    <string name="tvOverview">TextView</string>
 </resources>
